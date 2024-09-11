@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelinusVirtualAssistant", "HelinusVirtualAssistant\HelinusVirtualAssistant.csproj", "{99E66373-F67D-49A7-9572-167522D0D7E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HVA.RS", "HVA.RS\HVA.RS.csproj", "{05B1F11E-5987-44B3-BD17-554240C5471B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HVA.Services", "HVA.Services\HVA.Services.csproj", "{72EF2D74-7424-4C11-BD5B-5DDD0608B01C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HVA.UIFRMS", "HVA.UIFRMS\HVA.UIFRMS.csproj", "{65D5AEC3-808D-4576-8CF4-498E1F6DF220}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HVA.WAI", "HVA.WAI\HVA.WAI.csproj", "{45F2D15C-6D6C-4948-988C-2F40B803B6FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99E66373-F67D-49A7-9572-167522D0D7E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E66373-F67D-49A7-9572-167522D0D7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E66373-F67D-49A7-9572-167522D0D7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E66373-F67D-49A7-9572-167522D0D7E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B1F11E-5987-44B3-BD17-554240C5471B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B1F11E-5987-44B3-BD17-554240C5471B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B1F11E-5987-44B3-BD17-554240C5471B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B1F11E-5987-44B3-BD17-554240C5471B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72EF2D74-7424-4C11-BD5B-5DDD0608B01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72EF2D74-7424-4C11-BD5B-5DDD0608B01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72EF2D74-7424-4C11-BD5B-5DDD0608B01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72EF2D74-7424-4C11-BD5B-5DDD0608B01C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65D5AEC3-808D-4576-8CF4-498E1F6DF220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D5AEC3-808D-4576-8CF4-498E1F6DF220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D5AEC3-808D-4576-8CF4-498E1F6DF220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D5AEC3-808D-4576-8CF4-498E1F6DF220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45F2D15C-6D6C-4948-988C-2F40B803B6FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F2D15C-6D6C-4948-988C-2F40B803B6FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F2D15C-6D6C-4948-988C-2F40B803B6FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F2D15C-6D6C-4948-988C-2F40B803B6FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73305F0E-4CE7-4A38-8B0C-8A3CC484ECCB}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/helinus
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = HelinusVirtualAssistant\\HelinusVirtualAssistant.csproj
+		SccProjectName1 = HelinusVirtualAssistant
+		SccLocalPath1 = HelinusVirtualAssistant
+		SccProjectUniqueName2 = HVA.RS\\HVA.RS.csproj
+		SccProjectName2 = HVA.RS
+		SccLocalPath2 = HVA.RS
+		SccProjectUniqueName3 = HVA.Services\\HVA.Services.csproj
+		SccProjectName3 = HVA.Services
+		SccLocalPath3 = HVA.Services
+		SccProjectUniqueName4 = HVA.UIFRMS\\HVA.UIFRMS.csproj
+		SccProjectName4 = HVA.UIFRMS
+		SccLocalPath4 = HVA.UIFRMS
+		SccProjectUniqueName5 = HVA.WAI\\HVA.WAI.csproj
+		SccProjectName5 = HVA.WAI
+		SccLocalPath5 = HVA.WAI
+	EndGlobalSection
+EndGlobal
