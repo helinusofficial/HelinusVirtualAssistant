@@ -1,4 +1,4 @@
-# HelinusVirtualAssistant
+# Helinus Virtual Assistant
 HelinusVirtualAssistant is a lightweight, open-source virtual assistant developed by Helinus, designed to enhance digital productivity for individuals and teams. This tool tracks application usage, analyzes active work time, and provides insights into digital behavior — all while operating securely and efficiently in the background.
 
 It’s ideal for professionals, remote workers, and organizations aiming to improve focus, monitor workflows, and optimize performance through intelligent automation.
